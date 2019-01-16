@@ -1,25 +1,19 @@
 # Navigation
 
 # Project Details
-- The README describes the the project environment details (i.e., the state and action spaces, and when the environment is considered solved).
+- environment details (i.e., the state and action spaces, and when the environment is considered solved).
 
 # Getting Started
-- The README has instructions for installing dependencies or downloading needed files.
+1. Install jupyter.
+1. Clone this repository.
+1. Download runtime environment (runtime builded by Unity) for your platform.
+    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+    - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+    - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+1. Extract above zip file in cloned this repository.
+1. Run 'jupyter notebook' in above directory.
 
-# Instructions
-- The README describes how to run the code in the repository, to train the agent. For additional resources on creating READMEs or using Markdown, see here and here.
-
-
-## Training Code
-
-- Training Code
-    - The repository (or zip file) includes functional, well-documented, and organized code for training the agent.
-
-- Framework
-    - The code is written in PyTorch and Python 3.
-
-- Saved Model Weights
-    - The submission includes the saved model weights of the successful agent.
 
 ## Suggestions to Make Your Project Stand Out!
 - Include a GIF and/or link to a YouTube video of your trained agent!
