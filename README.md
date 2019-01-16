@@ -22,19 +22,6 @@
 - Instructions
     - The README describes how to run the code in the repository, to train the agent. For additional resources on creating READMEs or using Markdown, see here and here.
 
-## Report
-
-- The submission includes a file in the root of the GitHub repository or zip file (one of Report.md, Report.ipynb, or Report.pdf) that provides a description of the implementation.
-
-- Learning Algorithm
-    - The report clearly describes the learning algorithm, along with the chosen hyperparameters. It also describes the model architectures for any neural networks.
-
-- Plot of Rewards
-    - A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment.
-
-- Ideas for Future Work
-    - The submission has concrete future ideas for improving the agent's performance.
-
 ## Suggestions to Make Your Project Stand Out!
 - Include a GIF and/or link to a YouTube video of your trained agent!
 - Solve the environment in fewer than 1800 episodes!
