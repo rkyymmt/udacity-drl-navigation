@@ -4,7 +4,7 @@
 - environment details (i.e., the state and action spaces, and when the environment is considered solved).
 
 # Getting Started
-1. Install jupyter.
+1. Install jupyter.(See [this](https://jupyter.readthedocs.io/en/latest/install.html))
 1. Clone this repository.
 1. Download runtime environment (runtime builded by Unity) for your platform.
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
