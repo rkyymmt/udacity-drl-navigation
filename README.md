@@ -1,7 +1,7 @@
 # Navigation
 
-# Project Details
-- environment details (i.e., the state and action spaces, and when the environment is considered solved).
+# Environment
+- the state and action spaces, and when the environment is considered solved.
 
 # Getting Started
 1. Install jupyter.(See [this](https://jupyter.readthedocs.io/en/latest/install.html))
@@ -13,7 +13,8 @@
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 1. Extract above zip file in cloned this repository.
 1. Run 'jupyter notebook' in above directory.
-
+1. Open 'Navigation.ipynb' from Jupyter Notebook.
+1. Execute 'Run all'.
 
 ## Suggestions to Make Your Project Stand Out!
 - Include a GIF and/or link to a YouTube video of your trained agent!
