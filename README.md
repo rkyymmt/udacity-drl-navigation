@@ -1,1 +1,1 @@
-# udacity-drl-Navigation
+# udacity-drl-navigation
