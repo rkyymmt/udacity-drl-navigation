@@ -14,10 +14,3 @@
 1. Run 'jupyter notebook' in above directory.
 1. Open 'Navigation.ipynb' from Jupyter Notebook.
 1. Execute 'Run all'.
-
-## Suggestions to Make Your Project Stand Out!
-- Include a GIF and/or link to a YouTube video of your trained agent!
-- Solve the environment in fewer than 1800 episodes!
-- Write a blog post explaining the project and your implementation!
-- Implement a double DQN, a dueling DQN, and/or prioritized experience replay!
-- For an extra challenge after passing this project, try to train an agent from raw pixels! Check out (Optional) Challenge: Learning from - Pixels in the classroom for more details.
